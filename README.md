@@ -31,7 +31,7 @@ The design eliminates single points of failure, disguises itself as ordinary HTT
 | Diffie–Hellman                  | **X25519**                                         |
 | Post-quantum hybrid<sup>†</sup> | **X25519-Kyber768** (draft-ietf-pqtls-00)          |
 
-> † Offering the hybrid ciphersuite is **MUST** after *2027-01-01*.
+> † Offering the hybrid ciphersuite **MUST** be after *2027-01-01*.
 
 ---
 
